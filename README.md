@@ -1,11 +1,13 @@
 # dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+
+Repositório para prática sobre o Amazon Athena, foi utilizada conta pessoal gratuita para reprodução do projeto.
 
 ### Serviços utilizados nessa atividade prática
- - Amazon S3
- - Amazon Glue
- - Amazon Athena
- - Amazon QuickSight
+
+- Amazon S3
+- Amazon Glue
+- Amazon Athena
+- Amazon QuickSight
 
 ### Etapas para desenvolvimento
 
@@ -48,5 +50,5 @@ Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 - Criar visualizações selecionando colunas, criando filtros e parâmetros e selecionando Visual types para gráficos.
 
 ### Eliminar recursos
- - Exluir os elementos criados
 
+- Exluir os elementos criados
